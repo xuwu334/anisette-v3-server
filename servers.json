@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "My Anisette",
+      "url": "https://anisette-v3-da-kou-chi-fan-fu-wu-qi.onrender.com",
+      "type": "v3"
+    }
+  ]
+}
